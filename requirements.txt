@@ -45,7 +45,6 @@ packaging==20.4
 pandas==0.24.1
 pandocfilters==1.4.2
 parso==0.7.1
-pefile==2018.8.
 PyInstaller==3.4
 python-dateutil==2.8.0
 pytz==2018.9
