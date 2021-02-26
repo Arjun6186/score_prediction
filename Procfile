@@ -1,0 +1,1 @@
+web:gunicorn flask_app_Score Prediction random forest:app
